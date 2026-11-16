@@ -1,1 +1,1 @@
-Model: version 3
+Model: version 3 with feature improvements
